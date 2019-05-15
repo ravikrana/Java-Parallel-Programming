@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: classworlds:classworlds:1.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/classworlds/classworlds/1.1/classworlds-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pcdp-core-0.0.4-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/classworlds/classworlds/1.1/classworlds-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/classworlds/classworlds/1.1/classworlds-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
